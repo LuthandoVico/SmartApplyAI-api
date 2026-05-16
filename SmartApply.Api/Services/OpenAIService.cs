@@ -9,7 +9,7 @@ namespace SmartApply.Api.Services
 
         public OpenAIService(IConfiguration config)
         {
-            _apiKey = config["OpenAI:ApiKey"];
+            _apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
         }
 
         public async Task<AIResult> GenerateAsync(

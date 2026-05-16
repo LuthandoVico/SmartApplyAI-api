@@ -359,6 +359,7 @@ Services/
  System.Xml.XPath.XDocument.dll
  WindowsBase.dll
 <NUGET>/
+ dotnetenv/3.2.0/lib/netstandard2.0/DotNetEnv.dll
  microsoft.extensions.configuration.abstractions/10.0.3/lib/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
  microsoft.extensions.dependencyinjection.abstractions/10.0.3/lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
  microsoft.extensions.diagnostics.abstractions/10.0.3/lib/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
@@ -369,6 +370,7 @@ Services/
  microsoft.extensions.primitives/10.0.3/lib/net8.0/Microsoft.Extensions.Primitives.dll
  microsoft.openapi/1.6.14/lib/netstandard2.0/Microsoft.OpenApi.dll
  openai/2.10.0/lib/net8.0/OpenAI.dll
+ superpower/3.0.0/lib/net5.0/Superpower.dll
  swashbuckle.aspnetcore.swagger/6.6.2/lib/net8.0/Swashbuckle.AspNetCore.Swagger.dll
  swashbuckle.aspnetcore.swaggergen/6.6.2/lib/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
  swashbuckle.aspnetcore.swaggerui/6.6.2/lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
