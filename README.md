@@ -66,7 +66,7 @@ Analyzes a CV against a job description.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/SmartApplyAI-api.git
+git clone https://github.com/LuthandoVico/SmartApplyAI-api.git
 cd SmartApply.Api
 ```
 
